@@ -7,19 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		70A85999273D8E0D00E6EFE0 /* Lato-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 70A85993273D8E0D00E6EFE0 /* Lato-Thin.ttf */; };
+		70A8599A273D8E0D00E6EFE0 /* Montserrat-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 70A85994273D8E0D00E6EFE0 /* Montserrat-Medium.ttf */; };
+		70A8599B273D8E0D00E6EFE0 /* Lato-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 70A85995273D8E0D00E6EFE0 /* Lato-Bold.ttf */; };
+		70A8599C273D8E0D00E6EFE0 /* Lato-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 70A85996273D8E0D00E6EFE0 /* Lato-Regular.ttf */; };
+		70A8599D273D8E0D00E6EFE0 /* Montserrat-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 70A85997273D8E0D00E6EFE0 /* Montserrat-Bold.ttf */; };
+		70A8599E273D8E0D00E6EFE0 /* Montserrat-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 70A85998273D8E0D00E6EFE0 /* Montserrat-Regular.ttf */; };
 		70BDD2B3273D558C00112E5B /* app_digitalApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70BDD2B2273D558C00112E5B /* app_digitalApp.swift */; };
 		70BDD2B5273D558C00112E5B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70BDD2B4273D558C00112E5B /* ContentView.swift */; };
 		70BDD2B7273D559200112E5B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 70BDD2B6273D559200112E5B /* Assets.xcassets */; };
 		70BDD2BA273D559200112E5B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 70BDD2B9273D559200112E5B /* Preview Assets.xcassets */; };
+		70C00B14273DACEE00C53D37 /* ViewText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70C00B13273DACEE00C53D37 /* ViewText.swift */; };
+		70C00B19273DB77100C53D37 /* ViewButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70C00B18273DB77100C53D37 /* ViewButton.swift */; };
+		70C00B1C273DB92B00C53D37 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 70C00B1B273DB92B00C53D37 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		70A85993273D8E0D00E6EFE0 /* Lato-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Thin.ttf"; sourceTree = "<group>"; };
+		70A85994273D8E0D00E6EFE0 /* Montserrat-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Medium.ttf"; sourceTree = "<group>"; };
+		70A85995273D8E0D00E6EFE0 /* Lato-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Bold.ttf"; sourceTree = "<group>"; };
+		70A85996273D8E0D00E6EFE0 /* Lato-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Lato-Regular.ttf"; sourceTree = "<group>"; };
+		70A85997273D8E0D00E6EFE0 /* Montserrat-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Bold.ttf"; sourceTree = "<group>"; };
+		70A85998273D8E0D00E6EFE0 /* Montserrat-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Regular.ttf"; sourceTree = "<group>"; };
 		70BDD2AF273D558C00112E5B /* app-digital.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "app-digital.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		70BDD2B2273D558C00112E5B /* app_digitalApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = app_digitalApp.swift; sourceTree = "<group>"; };
 		70BDD2B4273D558C00112E5B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		70BDD2B6273D559200112E5B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		70BDD2B9273D559200112E5B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		70BDD2BB273D559200112E5B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		70C00B13273DACEE00C53D37 /* ViewText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewText.swift; sourceTree = "<group>"; };
+		70C00B18273DB77100C53D37 /* ViewButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewButton.swift; sourceTree = "<group>"; };
+		70C00B1B273DB92B00C53D37 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,10 +51,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		70A85992273D8E0D00E6EFE0 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				70A85993273D8E0D00E6EFE0 /* Lato-Thin.ttf */,
+				70A85994273D8E0D00E6EFE0 /* Montserrat-Medium.ttf */,
+				70A85995273D8E0D00E6EFE0 /* Lato-Bold.ttf */,
+				70A85996273D8E0D00E6EFE0 /* Lato-Regular.ttf */,
+				70A85997273D8E0D00E6EFE0 /* Montserrat-Bold.ttf */,
+				70A85998273D8E0D00E6EFE0 /* Montserrat-Regular.ttf */,
+			);
+			path = fonts;
+			sourceTree = "<group>";
+		};
 		70BDD2A6273D558C00112E5B = {
 			isa = PBXGroup;
 			children = (
-				70BDD2B1273D558C00112E5B /* app-digital */,
+				70BDD2B1273D558C00112E5B /* src */,
 				70BDD2B0273D558C00112E5B /* Products */,
 			);
 			sourceTree = "<group>";
@@ -49,16 +80,19 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		70BDD2B1273D558C00112E5B /* app-digital */ = {
+		70BDD2B1273D558C00112E5B /* src */ = {
 			isa = PBXGroup;
 			children = (
+				70BDD2BB273D559200112E5B /* Info.plist */,
 				70BDD2B2273D558C00112E5B /* app_digitalApp.swift */,
 				70BDD2B4273D558C00112E5B /* ContentView.swift */,
+				70C00B1B273DB92B00C53D37 /* HomeView.swift */,
 				70BDD2B6273D559200112E5B /* Assets.xcassets */,
-				70BDD2BB273D559200112E5B /* Info.plist */,
+				70C00B16273DADED00C53D37 /* components */,
+				70A85992273D8E0D00E6EFE0 /* fonts */,
 				70BDD2B8273D559200112E5B /* Preview Content */,
 			);
-			path = "app-digital";
+			path = src;
 			sourceTree = "<group>";
 		};
 		70BDD2B8273D559200112E5B /* Preview Content */ = {
@@ -67,6 +101,15 @@
 				70BDD2B9273D559200112E5B /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		70C00B16273DADED00C53D37 /* components */ = {
+			isa = PBXGroup;
+			children = (
+				70C00B13273DACEE00C53D37 /* ViewText.swift */,
+				70C00B18273DB77100C53D37 /* ViewButton.swift */,
+			);
+			path = components;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -126,8 +169,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				70A8599E273D8E0D00E6EFE0 /* Montserrat-Regular.ttf in Resources */,
 				70BDD2BA273D559200112E5B /* Preview Assets.xcassets in Resources */,
+				70A8599C273D8E0D00E6EFE0 /* Lato-Regular.ttf in Resources */,
+				70A8599B273D8E0D00E6EFE0 /* Lato-Bold.ttf in Resources */,
+				70A85999273D8E0D00E6EFE0 /* Lato-Thin.ttf in Resources */,
+				70A8599A273D8E0D00E6EFE0 /* Montserrat-Medium.ttf in Resources */,
 				70BDD2B7273D559200112E5B /* Assets.xcassets in Resources */,
+				70A8599D273D8E0D00E6EFE0 /* Montserrat-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,7 +187,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				70C00B14273DACEE00C53D37 /* ViewText.swift in Sources */,
 				70BDD2B5273D558C00112E5B /* ContentView.swift in Sources */,
+				70C00B19273DB77100C53D37 /* ViewButton.swift in Sources */,
+				70C00B1C273DB92B00C53D37 /* HomeView.swift in Sources */,
 				70BDD2B3273D558C00112E5B /* app_digitalApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -268,11 +320,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"app-digital/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"src/Preview Content\"";
 				DEVELOPMENT_TEAM = 2UNU5H84MY;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "app-digital/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				INFOPLIST_FILE = src/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -290,11 +342,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"app-digital/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"src/Preview Content\"";
 				DEVELOPMENT_TEAM = 2UNU5H84MY;
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = "app-digital/Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				INFOPLIST_FILE = src/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
